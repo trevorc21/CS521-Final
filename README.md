@@ -1,7 +1,7 @@
 ## CS521-Final
 
 
-#Requirments
+# Requirments
 tkinter
 # How to Run
 1. Start server
